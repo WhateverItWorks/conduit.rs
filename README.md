@@ -35,8 +35,8 @@ docker-compose up -d
 - [Matrix Federation Tester](https://federationtester.matrix.org/#matrix.whateveritworks.org)
 
 ### Issues
-[End-to-End Encryption breaks Admin Room](https://gitlab.com/famedly/conduit/-/issues/326#note_1213758498)
-[Deploy Sliding-Sync for Element X](https://gitlab.com/famedly/conduit/-/issues/355)
+- [End-to-End Encryption breaks Admin Room](https://gitlab.com/famedly/conduit/-/issues/326#note_1213758498)
+- [Deploy Sliding-Sync for Element X](https://gitlab.com/famedly/conduit/-/issues/355)
 
 ### View Logs
 ```
